@@ -26,3 +26,12 @@ CalcPro is a console-based calculator built while learning Java fundamentals.
 
 ```bash
 javac Main.java
+2. Run:
+
+```bash
+java Main
+```
+
+## Author
+
+Apurva Kinage
